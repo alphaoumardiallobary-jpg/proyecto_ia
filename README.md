@@ -36,3 +36,11 @@ Da identidad visual Retorika
 
 # 4-.gitignore
 Es un archivo de configuración de Git.
+
+Qué hace:
+Evita subir archivos pesados o temporales
+Protege el repositorio
+Ignora cosas como:video.mp4, audio.wav, __pycache__/,*.pyc. Muy importante para que GitHub no falle.
+
+# Objetivo del proyecto
+Automatizar el análisis de comunicación usando IA para ayudar a evaluar presentaciones de forma rápida y objetiva. 
